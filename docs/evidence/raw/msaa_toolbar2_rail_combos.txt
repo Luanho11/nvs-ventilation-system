@@ -1,0 +1,269 @@
+﻿=== COMBO 855098
+count=18
+  [0] Favoritas
+  [1] Flujo de aire
+  [2] Presión
+  [3] Atributos
+  [4] Energía
+  [5] Diesel
+  [6] Calor
+  [7] Roca
+  [8] Identificadores
+  [9] Contaminantes
+  [10] Radón
+  [11] Gas
+  [12] ------------------------------
+  [13] Sensibilidad a la resistencia
+  [14] Sensibilidad al calor
+  [15] Volante térmico
+  [16] Datos de Ventlog
+  [17] Datos Ventsim NOTE
+sel=1
+=== COMBO 1248570
+count=5
+  [0] Cantidad
+  [1] Densidad del aire
+  [2] Flujo de masa
+  [3] Número de Reynolds
+  [4] Velocidad
+sel=0
+=== COMBO 2166378
+count=18
+  [0] Favoritas
+  [1] Flujo de aire
+  [2] Presión
+  [3] Atributos
+  [4] Energía
+  [5] Diesel
+  [6] Calor
+  [7] Roca
+  [8] Identificadores
+  [9] Contaminantes
+  [10] Radón
+  [11] Gas
+  [12] ------------------------------
+  [13] Sensibilidad a la resistencia
+  [14] Sensibilidad al calor
+  [15] Volante térmico
+  [16] Datos de Ventlog
+  [17] Datos Ventsim NOTE
+sel=1
+=== COMBO 1379140
+count=5
+  [0] Cantidad
+  [1] Densidad del aire
+  [2] Flujo de masa
+  [3] Número de Reynolds
+  [4] Velocidad
+sel=0
+=== COMBO 1969110
+count=1
+  [0] Por defecto
+sel=-1
+=== COMBO 331270
+count=1
+  [0] 
+sel=0
+=== MSAA 1183684
+barra de herramientas | 'Barra de herramientas 1' | desc='' | kb='' | st=1048576 | 1,87,1364,28
+  asidero | 'Control' | desc='' | kb='' | st=0 | 3,87,5,28
+  botón de comando | 'btnScaleShow' | desc='' | kb='' | st=1048576 | 10,87,28,28
+  botón de comando | 'Administrador de datos y color' | desc='' | kb='' | st=1048576 | 38,87,28,28
+  cuadro combinado | '' | desc='' | kb='' | st=1049600 | 67,90,135,22
+    texto | '' | desc='' | kb='' | st=1048576 | 3,3,112,16
+    botón de comando | 'Abrir' | desc='' | kb='Alt+Flecha abajo' | st=0 | 186,91,15,20
+    ventana | '' | desc='' | kb='' | st=1085440 | 0,22,200,0
+      barra de menús | 'Sistema' | desc='Contiene comandos para manipular la ventana' | kb='' | st=32768 | 0,0,0,0
+      barra de título | '' | desc='Muestra el nombre de la ventana y contiene controles para manipularla' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'IME' | desc='Muestra el teclado cuando se presiona' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Minimizar' | desc='Quita la ventana del medio' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Maximizar' | desc='Hace que la ventana ocupe la pantalla completa' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Ayuda contextual' | desc='Entra o sale del modo de ayuda relativa al contexto' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Cerrar' | desc='Cierra la ventana' | kb='' | st=32768 | 0,0,0,0
+      barra de menús | 'Aplicación' | desc='Contiene comandos para manipular la vista o el documento actuales' | kb='' | st=32768 | 0,0,0,0
+      lista | '' | desc='' | kb='' | st=1081344 | 1,23,198,0
+        elemento de lista | 'Favoritas' | desc='' | kb='' | st=3178496 | 1,9,198,14
+        elemento de lista | 'Flujo de aire' | desc='' | kb='' | st=3178498 | 1,23,198,14
+        elemento de lista | 'Presión' | desc='' | kb='' | st=3178496 | 1,37,198,14
+        elemento de lista | 'Atributos' | desc='' | kb='' | st=3178496 | 1,51,198,14
+        elemento de lista | 'Energía' | desc='' | kb='' | st=3178496 | 1,65,198,14
+        elemento de lista | 'Diesel' | desc='' | kb='' | st=3178496 | 1,79,198,14
+        elemento de lista | 'Calor' | desc='' | kb='' | st=3178496 | 1,93,198,14
+        elemento de lista | 'Roca' | desc='' | kb='' | st=3178496 | 1,107,198,14
+        elemento de lista | 'Identificadores' | desc='' | kb='' | st=3178496 | 1,121,198,14
+        elemento de lista | 'Contaminantes' | desc='' | kb='' | st=3178496 | 1,135,198,14
+        elemento de lista | 'Radón' | desc='' | kb='' | st=3178496 | 1,149,198,14
+        elemento de lista | 'Gas' | desc='' | kb='' | st=3178496 | 1,163,198,14
+        elemento de lista | '------------------------------' | desc='' | kb='' | st=3178496 | 1,177,198,14
+        elemento de lista | 'Sensibilidad a la resistencia' | desc='' | kb='' | st=3178496 | 1,191,198,14
+        elemento de lista | 'Sensibilidad al calor' | desc='' | kb='' | st=3178496 | 1,205,198,14
+        elemento de lista | 'Volante térmico' | desc='' | kb='' | st=3178496 | 1,219,198,14
+        elemento de lista | 'Datos de Ventlog' | desc='' | kb='' | st=3178496 | 1,233,198,14
+        elemento de lista | 'Datos Ventsim NOTE' | desc='' | kb='' | st=3178496 | 1,247,198,14
+      barra de desplazamiento | 'Vertical' | desc='Se usa para cambiar el área de observación vertical' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Línea arriba' | desc='La posición vertical se mueve una línea hacía arriba' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Re Pág' | desc='La posición vertical se sube un par de líneas' | kb='' | st=65536 | 0,0,0,0
+        indicador | 'Posición' | desc='Indica la posición vertical actual y se puede arrastrar para cambiarla directamente' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Av Pág' | desc='La posición vertical se baja un par de líneas' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Línea abajo' | desc='La posición vertical se baja una línea' | kb='' | st=65536 | 0,0,0,0
+      barra de desplazamiento | 'Horizontal' | desc='Se usa para cambiar el área de observación horizontal' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Columna a la izquierda' | desc='La posición horizontal se mueve una columna hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Página a la izquierda' | desc='La posición horizontal se mueve un par de columnas hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+        indicador | 'Posición' | desc='Indica la posición horizontal actual y se puede arrastrar para cambiarla directamente' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Página a la derecha' | desc='La posición horizontal se mueve un par de columnas hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Columna a la derecha' | desc='La posición horizontal se mueve una columna hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+      asidero | '' | desc='' | kb='' | st=32769 | 0,0,0,0
+  cuadro combinado | '' | desc='' | kb='' | st=1049600 | 204,90,200,22
+    texto | '' | desc='' | kb='' | st=1048576 | 3,3,177,16
+    botón de comando | 'Abrir' | desc='' | kb='Alt+Flecha abajo' | st=0 | 388,91,15,20
+    ventana | '' | desc='' | kb='' | st=1085440 | 0,22,200,0
+      barra de menús | 'Sistema' | desc='Contiene comandos para manipular la ventana' | kb='' | st=32768 | 0,0,0,0
+      barra de título | '' | desc='Muestra el nombre de la ventana y contiene controles para manipularla' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'IME' | desc='Muestra el teclado cuando se presiona' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Minimizar' | desc='Quita la ventana del medio' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Maximizar' | desc='Hace que la ventana ocupe la pantalla completa' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Ayuda contextual' | desc='Entra o sale del modo de ayuda relativa al contexto' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Cerrar' | desc='Cierra la ventana' | kb='' | st=32768 | 0,0,0,0
+      barra de menús | 'Aplicación' | desc='Contiene comandos para manipular la vista o el documento actuales' | kb='' | st=32768 | 0,0,0,0
+      lista | '' | desc='' | kb='' | st=1081344 | 1,23,198,0
+        elemento de lista | 'Cantidad' | desc='' | kb='' | st=3178498 | 1,23,198,14
+        elemento de lista | 'Densidad del aire' | desc='' | kb='' | st=3178496 | 1,37,198,14
+        elemento de lista | 'Flujo de masa' | desc='' | kb='' | st=3178496 | 1,51,198,14
+        elemento de lista | 'Número de Reynolds' | desc='' | kb='' | st=3178496 | 1,65,198,14
+        elemento de lista | 'Velocidad' | desc='' | kb='' | st=3178496 | 1,79,198,14
+      barra de desplazamiento | 'Vertical' | desc='Se usa para cambiar el área de observación vertical' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Línea arriba' | desc='La posición vertical se mueve una línea hacía arriba' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Re Pág' | desc='La posición vertical se sube un par de líneas' | kb='' | st=65536 | 0,0,0,0
+        indicador | 'Posición' | desc='Indica la posición vertical actual y se puede arrastrar para cambiarla directamente' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Av Pág' | desc='La posición vertical se baja un par de líneas' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Línea abajo' | desc='La posición vertical se baja una línea' | kb='' | st=65536 | 0,0,0,0
+      barra de desplazamiento | 'Horizontal' | desc='Se usa para cambiar el área de observación horizontal' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Columna a la izquierda' | desc='La posición horizontal se mueve una columna hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Página a la izquierda' | desc='La posición horizontal se mueve un par de columnas hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+        indicador | 'Posición' | desc='Indica la posición horizontal actual y se puede arrastrar para cambiarla directamente' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Página a la derecha' | desc='La posición horizontal se mueve un par de columnas hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Columna a la derecha' | desc='La posición horizontal se mueve una columna hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+      asidero | '' | desc='' | kb='' | st=32769 | 0,0,0,0
+  texto | 'm³/s' | desc='' | kb='' | st=64 | 405,88,32,25
+  separador | '' | desc='' | kb='' | st=0 | 437,87,6,28
+  casilla | '' | desc='' | kb='' | st=1048592 | 443,89,28,23
+  separador | '' | desc='' | kb='' | st=0 | 471,87,6,28
+  botón de comando | 'T' | desc='' | kb='' | st=1048592 | 477,89,28,23
+  casilla | 'Texto relativ' | desc='' | kb='' | st=1048592 | 507,89,28,23
+  cuadro combinado | '' | desc='' | kb='' | st=1049600 | 537,90,135,22
+    texto | '' | desc='' | kb='' | st=1048576 | 3,3,112,16
+    botón de comando | 'Abrir' | desc='' | kb='Alt+Flecha abajo' | st=0 | 656,91,15,20
+    ventana | '' | desc='' | kb='' | st=1085440 | 0,22,200,0
+      barra de menús | 'Sistema' | desc='Contiene comandos para manipular la ventana' | kb='' | st=32768 | 0,0,0,0
+      barra de título | '' | desc='Muestra el nombre de la ventana y contiene controles para manipularla' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'IME' | desc='Muestra el teclado cuando se presiona' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Minimizar' | desc='Quita la ventana del medio' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Maximizar' | desc='Hace que la ventana ocupe la pantalla completa' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Ayuda contextual' | desc='Entra o sale del modo de ayuda relativa al contexto' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Cerrar' | desc='Cierra la ventana' | kb='' | st=32768 | 0,0,0,0
+      barra de menús | 'Aplicación' | desc='Contiene comandos para manipular la vista o el documento actuales' | kb='' | st=32768 | 0,0,0,0
+      lista | '' | desc='' | kb='' | st=1081344 | 1,23,198,0
+        elemento de lista | 'Favoritas' | desc='' | kb='' | st=3178496 | 1,9,198,14
+        elemento de lista | 'Flujo de aire' | desc='' | kb='' | st=3178498 | 1,23,198,14
+        elemento de lista | 'Presión' | desc='' | kb='' | st=3178496 | 1,37,198,14
+        elemento de lista | 'Atributos' | desc='' | kb='' | st=3178496 | 1,51,198,14
+        elemento de lista | 'Energía' | desc='' | kb='' | st=3178496 | 1,65,198,14
+        elemento de lista | 'Diesel' | desc='' | kb='' | st=3178496 | 1,79,198,14
+        elemento de lista | 'Calor' | desc='' | kb='' | st=3178496 | 1,93,198,14
+        elemento de lista | 'Roca' | desc='' | kb='' | st=3178496 | 1,107,198,14
+        elemento de lista | 'Identificadores' | desc='' | kb='' | st=3178496 | 1,121,198,14
+        elemento de lista | 'Contaminantes' | desc='' | kb='' | st=3178496 | 1,135,198,14
+        elemento de lista | 'Radón' | desc='' | kb='' | st=3178496 | 1,149,198,14
+        elemento de lista | 'Gas' | desc='' | kb='' | st=3178496 | 1,163,198,14
+        elemento de lista | '------------------------------' | desc='' | kb='' | st=3178496 | 1,177,198,14
+        elemento de lista | 'Sensibilidad a la resistencia' | desc='' | kb='' | st=3178496 | 1,191,198,14
+        elemento de lista | 'Sensibilidad al calor' | desc='' | kb='' | st=3178496 | 1,205,198,14
+        elemento de lista | 'Volante térmico' | desc='' | kb='' | st=3178496 | 1,219,198,14
+        elemento de lista | 'Datos de Ventlog' | desc='' | kb='' | st=3178496 | 1,233,198,14
+        elemento de lista | 'Datos Ventsim NOTE' | desc='' | kb='' | st=3178496 | 1,247,198,14
+      barra de desplazamiento | 'Vertical' | desc='Se usa para cambiar el área de observación vertical' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Línea arriba' | desc='La posición vertical se mueve una línea hacía arriba' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Re Pág' | desc='La posición vertical se sube un par de líneas' | kb='' | st=65536 | 0,0,0,0
+        indicador | 'Posición' | desc='Indica la posición vertical actual y se puede arrastrar para cambiarla directamente' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Av Pág' | desc='La posición vertical se baja un par de líneas' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Línea abajo' | desc='La posición vertical se baja una línea' | kb='' | st=65536 | 0,0,0,0
+      barra de desplazamiento | 'Horizontal' | desc='Se usa para cambiar el área de observación horizontal' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Columna a la izquierda' | desc='La posición horizontal se mueve una columna hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Página a la izquierda' | desc='La posición horizontal se mueve un par de columnas hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+        indicador | 'Posición' | desc='Indica la posición horizontal actual y se puede arrastrar para cambiarla directamente' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Página a la derecha' | desc='La posición horizontal se mueve un par de columnas hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Columna a la derecha' | desc='La posición horizontal se mueve una columna hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+      asidero | '' | desc='' | kb='' | st=32769 | 0,0,0,0
+  cuadro combinado | '' | desc='' | kb='' | st=1049600 | 673,90,151,22
+    texto | '' | desc='' | kb='' | st=1048576 | 3,3,128,16
+    botón de comando | 'Abrir' | desc='' | kb='Alt+Flecha abajo' | st=0 | 808,91,15,20
+    ventana | '' | desc='' | kb='' | st=1085440 | 0,22,200,0
+      barra de menús | 'Sistema' | desc='Contiene comandos para manipular la ventana' | kb='' | st=32768 | 0,0,0,0
+      barra de título | '' | desc='Muestra el nombre de la ventana y contiene controles para manipularla' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'IME' | desc='Muestra el teclado cuando se presiona' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Minimizar' | desc='Quita la ventana del medio' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Maximizar' | desc='Hace que la ventana ocupe la pantalla completa' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Ayuda contextual' | desc='Entra o sale del modo de ayuda relativa al contexto' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Cerrar' | desc='Cierra la ventana' | kb='' | st=32768 | 0,0,0,0
+      barra de menús | 'Aplicación' | desc='Contiene comandos para manipular la vista o el documento actuales' | kb='' | st=32768 | 0,0,0,0
+      lista | '' | desc='' | kb='' | st=1081344 | 1,23,198,0
+        elemento de lista | 'Cantidad' | desc='' | kb='' | st=3178498 | 1,23,198,14
+        elemento de lista | 'Densidad del aire' | desc='' | kb='' | st=3178496 | 1,37,198,14
+        elemento de lista | 'Flujo de masa' | desc='' | kb='' | st=3178496 | 1,51,198,14
+        elemento de lista | 'Número de Reynolds' | desc='' | kb='' | st=3178496 | 1,65,198,14
+        elemento de lista | 'Velocidad' | desc='' | kb='' | st=3178496 | 1,79,198,14
+      barra de desplazamiento | 'Vertical' | desc='Se usa para cambiar el área de observación vertical' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Línea arriba' | desc='La posición vertical se mueve una línea hacía arriba' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Re Pág' | desc='La posición vertical se sube un par de líneas' | kb='' | st=65536 | 0,0,0,0
+        indicador | 'Posición' | desc='Indica la posición vertical actual y se puede arrastrar para cambiarla directamente' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Av Pág' | desc='La posición vertical se baja un par de líneas' | kb='' | st=65536 | 0,0,0,0
+        botón de comando | 'Línea abajo' | desc='La posición vertical se baja una línea' | kb='' | st=65536 | 0,0,0,0
+      barra de desplazamiento | 'Horizontal' | desc='Se usa para cambiar el área de observación horizontal' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Columna a la izquierda' | desc='La posición horizontal se mueve una columna hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Página a la izquierda' | desc='La posición horizontal se mueve un par de columnas hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+        indicador | 'Posición' | desc='Indica la posición horizontal actual y se puede arrastrar para cambiarla directamente' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Página a la derecha' | desc='La posición horizontal se mueve un par de columnas hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Columna a la derecha' | desc='La posición horizontal se mueve una columna hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+      asidero | '' | desc='' | kb='' | st=32769 | 0,0,0,0
+  texto | 'm³/s' | desc='' | kb='' | st=64 | 825,88,32,25
+  botón de comando | '' | desc='' | kb='' | st=1048576 | 857,90,36,22
+  cuadro combinado | '' | desc='' | kb='' | st=1049600 | 1183,89,180,23
+    texto | '' | desc='' | kb='' | st=1048576 | 3,3,157,17
+    botón de comando | 'Abrir' | desc='' | kb='Alt+Flecha abajo' | st=0 | 1347,90,15,21
+    ventana | '' | desc='' | kb='' | st=1085440 | 0,23,221,0
+      barra de menús | 'Sistema' | desc='Contiene comandos para manipular la ventana' | kb='' | st=32768 | 0,0,0,0
+      barra de título | '' | desc='Muestra el nombre de la ventana y contiene controles para manipularla' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'IME' | desc='Muestra el teclado cuando se presiona' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Minimizar' | desc='Quita la ventana del medio' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Maximizar' | desc='Hace que la ventana ocupe la pantalla completa' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Ayuda contextual' | desc='Entra o sale del modo de ayuda relativa al contexto' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Cerrar' | desc='Cierra la ventana' | kb='' | st=32768 | 0,0,0,0
+      barra de menús | 'Aplicación' | desc='Contiene comandos para manipular la vista o el documento actuales' | kb='' | st=32768 | 0,0,0,0
+      lista | '' | desc='' | kb='' | st=1081344 | 1,24,219,0
+        elemento de lista | 'Por defecto' | desc='' | kb='' | st=3178496 | 1,24,219,15
+      barra de desplazamiento | 'Vertical' | desc='Se usa para cambiar el área de observación vertical' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Línea arriba' | desc='La posición vertical se mueve una línea hacía arriba' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Re Pág' | desc='La posición vertical se sube un par de líneas' | kb='' | st=32768 | 0,0,0,0
+        indicador | 'Posición' | desc='Indica la posición vertical actual y se puede arrastrar para cambiarla directamente' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Av Pág' | desc='La posición vertical se baja un par de líneas' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Línea abajo' | desc='La posición vertical se baja una línea' | kb='' | st=32768 | 0,0,0,0
+      barra de desplazamiento | 'Horizontal' | desc='Se usa para cambiar el área de observación horizontal' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Columna a la izquierda' | desc='La posición horizontal se mueve una columna hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Página a la izquierda' | desc='La posición horizontal se mueve un par de columnas hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+        indicador | 'Posición' | desc='Indica la posición horizontal actual y se puede arrastrar para cambiarla directamente' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Página a la derecha' | desc='La posición horizontal se mueve un par de columnas hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Columna a la derecha' | desc='La posición horizontal se mueve una columna hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+      asidero | '' | desc='' | kb='' | st=32769 | 0,0,0,0
+  texto | 'Vistas guardadas' | desc='' | kb='' | st=64 | 1087,88,95,25
+=== MSAA 5114010
+barra de herramientas | 'Barra de herramientas 2' | desc='' | kb='' | st=1048576 | 1,115,37,571
+  asidero | 'Control' | desc='' | kb='' | st=0 | 1,117,37,5
+  casilla | 'Sólidos' | desc='' | kb='' | st=1048592 | 5,124,28,28
+  botón de comando | 'Texturas de Conductos' | desc='' | kb='' | st=1048592 | 5,153,28,28
+  botón de comando | 'Todos los aptos' | desc='' | kb='' | st=1048576 | 5,184,28,28
+  casilla | 'Cuadrícula' | desc='' | kb='' | st=1048592 | 5,213,28,28
+  casilla | 'Nodos' | desc='' | kb='' | st=1048576 | 5,241,28,28
+  botón de comando | 'Flechas' | desc='' | kb='' | st=1048576 | 2,269,35,28
+  casilla | 'Referencias' | desc='' | kb='' | st=1048592 | 5,297,28,28
+  casilla | 'Pistas' | desc='' | kb='' | st=1048592 | 5,325,28,28
+  botón de comando | 'Visibilidad' | desc='' | kb='' | st=1048576 | 5,354,28,28

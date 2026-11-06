@@ -1,0 +1,1620 @@
+{
+ "fuente": "Observación de la aplicación en ejecución (MSAA) + satélite de idioma es/VVentsim.resources.dll; ver docs/evidence/E-003",
+ "ventana": {
+  "titulo": "Ventsim DESIGN 6.0",
+  "cliente_px": [
+   1366,
+   720
+  ]
+ },
+ "menus": [
+  {
+   "name": "Archivo",
+   "items": [
+    {
+     "name": "ABRIR",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Iconos",
+     "items": [
+      {
+       "name": "Exportación",
+       "items": [],
+       "checkable": false
+      },
+      "-",
+      {
+       "name": "Ver",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Actualizar",
+       "items": [],
+       "checkable": false
+      },
+      "-",
+      {
+       "name": "Despejar",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Despejar fondo",
+       "items": [],
+       "checkable": false
+      }
+     ],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Importar",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Administrar referencias",
+     "items": [],
+     "checkable": false
+    },
+    "-",
+    "-",
+    {
+     "name": "Cargar demostración",
+     "items": [
+      {
+       "name": "Mina de metal",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Mina de carbón",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Mina de carbón texturada",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Mina de diamante",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Demo de fuego",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Sólidos simples",
+       "items": [],
+       "checkable": false
+      },
+      "-",
+      {
+       "name": "Otros ejemplos",
+       "items": [],
+       "checkable": false
+      }
+     ],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Administrador de la licencia",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Solicitud de Evaluación",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Cerrar",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Salir",
+     "items": [],
+     "checkable": false
+    }
+   ]
+  },
+  {
+   "name": "Ver",
+   "items": [
+    {
+     "name": "Todos los aptos",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Barras de herramientas",
+     "items": [],
+     "checkable": true
+    },
+    {
+     "name": "Restablecer la Pantalla",
+     "items": [],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Mostrar todo",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Clip a Niveles",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Recortar Elevación ± 20.0 m",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Vista Clip",
+     "items": [],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Ruta de vuelo",
+     "items": [
+      {
+       "name": "Nuevo vuelo",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Grabación en",
+       "items": [],
+       "checkable": false
+      },
+      "-",
+      {
+       "name": "Guardar Path",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Despejar camino",
+       "items": [],
+       "checkable": false
+      },
+      "-",
+      {
+       "name": "Reproducción",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Bucle en",
+       "items": [],
+       "checkable": false
+      }
+     ],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Vista rápida",
+     "items": [
+      {
+       "name": "Guardar Vista rápida",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Borrar actual",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Borrar Todo",
+       "items": [],
+       "checkable": false
+      },
+      "-",
+      {
+       "name": "Vista rápida anterior",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Siguiente Vista rápida",
+       "items": [],
+       "checkable": false
+      }
+     ],
+     "checkable": false
+    },
+    {
+     "name": "Copiar al portapapeles",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Copiar al portapapeles (Todos)",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Copiar en Alta Resolución",
+     "items": [
+      {
+       "name": "Ancho de 4K",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Ancho de 6k",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Ancho de 8k",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Ancho de 10k",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Ancho de 12k",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Ancho de 14k",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Ancho de 16k",
+       "items": [],
+       "checkable": false
+      }
+     ],
+     "checkable": false
+    },
+    {
+     "name": "Crear imagen",
+     "items": [],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Establecer el Centro de Edición",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Mostrar todas las elevaciones",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Mostrar todas las capas",
+     "items": [],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Ocultar Flujo Cero",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Ocultar Exclusión",
+     "items": [],
+     "checkable": false
+    }
+   ]
+  },
+  {
+   "name": "Vistas guardadas",
+   "items": [
+    {
+     "name": "Guardar Nueva",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Cambiar el nombre de",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Borrar",
+     "items": [],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Plan ",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Isométrica",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Sección del Eje X",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Sección del Eje Y",
+     "items": [],
+     "checkable": false
+    }
+   ]
+  },
+  {
+   "name": "Correr",
+   "items": [
+    {
+     "name": "Configuración",
+     "items": [
+      {
+       "name": "Flujo de aire",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Contaminante",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Gas",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Calor",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Dinámica",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Recirculación",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Incendio",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "DPM",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Polvo",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Explosivos",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Radón",
+       "items": [],
+       "checkable": false
+      },
+      "-",
+      {
+       "name": "Medio ambiente",
+       "items": [],
+       "checkable": false
+      }
+     ],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Escritura de la estática",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Escritura de la dinámica",
+     "items": [],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Resumen",
+     "items": [],
+     "checkable": false
+    }
+   ]
+  },
+  {
+   "name": "Nota",
+   "items": [
+    {
+     "name": "Abrir Ventsim NOTE",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Mapa a Modelo",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Actualizar solo estaciones",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Actualizar los últimos registros",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Comparar datos",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Despejar Estaciones",
+     "items": [],
+     "checkable": false
+    }
+   ]
+  },
+  {
+   "name": "Ventlog",
+   "items": [
+    {
+     "name": "Conectar",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Importar datos",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Importar nombres de estación",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Despejar Estaciones",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Comparar datos",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Acerca de VentLog ",
+     "items": [],
+     "checkable": false
+    }
+   ]
+  },
+  {
+   "name": "Configuración",
+   "items": [
+    {
+     "name": "Programar",
+     "items": [],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Utilisar Rugosidad",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Balance de Gas de aire seco",
+     "items": [],
+     "checkable": true
+    },
+    "-",
+    {
+     "name": "Modo de la tableta",
+     "items": [],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Asistente para configuración rápida",
+     "items": [],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Configuración",
+     "items": [],
+     "checkable": false
+    }
+   ]
+  },
+  {
+   "name": "Ventana",
+   "items": [
+    {
+     "name": "Nueva ventana",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Todos los aptos",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Alejar",
+     "items": [],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Mosaicos",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Vertical",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Horizontal",
+     "items": [],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Arreglo Automático",
+     "items": [],
+     "checkable": true
+    }
+   ]
+  },
+  {
+   "name": "Ayuda",
+   "items": [
+    {
+     "name": "Sobre",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Ver EULA",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Ayuda rápida",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Foros de soporte de Ventsim",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Seminarios web de Ventsim",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Herramientas HOWDEN",
+     "items": [
+      {
+       "name": "Calculadora de ahorro de energía potencial...",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Selección del ventilador",
+       "items": [],
+       "checkable": false
+      }
+     ],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Mostrar manual",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Mostrar Manual español",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Buscar actualizaciones",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Mostrar mensajes",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Sitio web y licencias de Ventsim",
+     "items": [
+      {
+       "name": "Página web del Ventsim",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Solicitud de Licencia de Evaluación",
+       "items": [],
+       "checkable": false
+      },
+      {
+       "name": "Solicitud de actualización y mantenimiento",
+       "items": [],
+       "checkable": false
+      }
+     ],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Sistema de Información",
+     "items": [],
+     "checkable": false
+    },
+    {
+     "name": "Diagnóstico de DirectX",
+     "items": [],
+     "checkable": false
+    },
+    "-",
+    {
+     "name": "Administrador de la licencia",
+     "items": [],
+     "checkable": false
+    }
+   ]
+  },
+  {
+   "name": "",
+   "items": []
+  },
+  {
+   "name": "",
+   "items": []
+  },
+  {
+   "name": "",
+   "items": []
+  },
+  {
+   "name": "",
+   "items": []
+  }
+ ],
+ "menu_etapa": [
+  {
+   "name": "Administrar",
+   "items": [],
+   "checkable": false
+  },
+  "-",
+  {
+   "name": "Bloquear a",
+   "items": [],
+   "checkable": false
+  },
+  {
+   "name": "Desbloquear",
+   "items": [],
+   "checkable": true
+  },
+  "-",
+  {
+   "name": "Cambiar el nombre de",
+   "items": [],
+   "checkable": false
+  },
+  {
+   "name": "Insertar",
+   "items": [],
+   "checkable": false
+  },
+  {
+   "name": "Borrar",
+   "items": [],
+   "checkable": false
+  },
+  {
+   "name": "Despejar",
+   "items": [],
+   "checkable": false
+  },
+  "-",
+  {
+   "name": "Fusionar actual",
+   "items": [],
+   "checkable": false
+  },
+  {
+   "name": "Combinar todos los",
+   "items": [],
+   "checkable": false
+  },
+  "-",
+  {
+   "name": "Añadir espacio en blanco",
+   "items": [],
+   "checkable": false
+  },
+  {
+   "name": "Agregar copia compartida",
+   "items": [],
+   "checkable": false
+  },
+  {
+   "name": "Agregar copia independiente",
+   "items": [],
+   "checkable": false
+  },
+  "-",
+  {
+   "name": "Subir en orden",
+   "items": [],
+   "checkable": false
+  },
+  {
+   "name": "Bajar orden",
+   "items": [],
+   "checkable": false
+  },
+  "-",
+  {
+   "name": "Seleccione conductos únicos",
+   "items": [],
+   "checkable": false
+  },
+  {
+   "name": "Resaltar conductos únicos",
+   "items": [],
+   "checkable": false
+  },
+  "-",
+  {
+   "name": "Etapa de conductos seleccionados por edad",
+   "items": [],
+   "checkable": false
+  }
+ ],
+ "barra1": [
+  {
+   "name": "Nuevo",
+   "role": "botón de comando",
+   "kb": "Alt+n",
+   "rect": [
+    0,
+    56,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "Abrir",
+   "role": "botón de comando",
+   "kb": "Alt+a",
+   "rect": [
+    28,
+    56,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "",
+   "role": "botón de comando",
+   "kb": "",
+   "rect": [
+    56,
+    56,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "",
+   "role": "botón de comando",
+   "kb": "",
+   "rect": [
+    84,
+    56,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "",
+   "role": "separador",
+   "kb": "",
+   "rect": [
+    112,
+    55,
+    4,
+    28
+   ]
+  },
+  {
+   "name": "Agregar una nueva ventana",
+   "role": "botón de comando",
+   "kb": "",
+   "rect": [
+    116,
+    56,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "Encontrar...",
+   "role": "botón de comando",
+   "kb": "",
+   "rect": [
+    144,
+    56,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "Mostrar todo",
+   "role": "botón de comando",
+   "kb": "",
+   "rect": [
+    172,
+    56,
+    40,
+    28
+   ]
+  },
+  {
+   "name": "",
+   "role": "botón de comando",
+   "kb": "",
+   "rect": [
+    212,
+    55,
+    43,
+    28
+   ]
+  },
+  {
+   "name": "Enfocar",
+   "role": "casilla",
+   "kb": "",
+   "rect": [
+    255,
+    55,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "Panear vista (mantenga presionado el botón izquierdo del ratón para panear la vista)",
+   "role": "botón de comando",
+   "kb": "",
+   "rect": [
+    283,
+    56,
+    28,
+    28
+   ]
+  }
+ ],
+ "barra2": [
+  {
+   "name": "btnScaleShow",
+   "role": "botón de comando",
+   "rect": [
+    10,
+    87,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "Administrador de datos y color",
+   "role": "botón de comando",
+   "rect": [
+    38,
+    87,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "",
+   "role": "cuadro combinado",
+   "rect": [
+    67,
+    90,
+    135,
+    22
+   ]
+  },
+  {
+   "name": "",
+   "role": "cuadro combinado",
+   "rect": [
+    204,
+    90,
+    200,
+    22
+   ]
+  },
+  {
+   "name": "m³/s",
+   "role": "texto",
+   "rect": [
+    405,
+    88,
+    32,
+    25
+   ]
+  },
+  {
+   "name": "",
+   "role": "separador",
+   "rect": [
+    437,
+    87,
+    6,
+    28
+   ]
+  },
+  {
+   "name": "",
+   "role": "casilla",
+   "rect": [
+    443,
+    89,
+    28,
+    23
+   ]
+  },
+  {
+   "name": "",
+   "role": "separador",
+   "rect": [
+    471,
+    87,
+    6,
+    28
+   ]
+  },
+  {
+   "name": "T",
+   "role": "botón de comando",
+   "rect": [
+    477,
+    89,
+    28,
+    23
+   ]
+  },
+  {
+   "name": "Texto relativ",
+   "role": "casilla",
+   "rect": [
+    507,
+    89,
+    28,
+    23
+   ]
+  },
+  {
+   "name": "",
+   "role": "cuadro combinado",
+   "rect": [
+    537,
+    90,
+    135,
+    22
+   ]
+  },
+  {
+   "name": "",
+   "role": "cuadro combinado",
+   "rect": [
+    673,
+    90,
+    151,
+    22
+   ]
+  },
+  {
+   "name": "m³/s",
+   "role": "texto",
+   "rect": [
+    825,
+    88,
+    32,
+    25
+   ]
+  },
+  {
+   "name": "",
+   "role": "botón de comando",
+   "rect": [
+    857,
+    90,
+    36,
+    22
+   ]
+  },
+  {
+   "name": "",
+   "role": "cuadro combinado",
+   "rect": [
+    1183,
+    89,
+    180,
+    23
+   ]
+  },
+  {
+   "name": "Vistas guardadas",
+   "role": "texto",
+   "rect": [
+    1087,
+    88,
+    95,
+    25
+   ]
+  }
+ ],
+ "raiL_izquierdo": [
+  {
+   "name": "Sólidos",
+   "role": "casilla",
+   "rect": [
+    5,
+    124,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "Texturas de Conductos",
+   "role": "botón de comando",
+   "rect": [
+    5,
+    153,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "Todos los aptos",
+   "role": "botón de comando",
+   "rect": [
+    5,
+    184,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "Cuadrícula",
+   "role": "casilla",
+   "rect": [
+    5,
+    213,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "Nodos",
+   "role": "casilla",
+   "rect": [
+    5,
+    241,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "Flechas",
+   "role": "botón de comando",
+   "rect": [
+    2,
+    269,
+    35,
+    28
+   ]
+  },
+  {
+   "name": "Referencias",
+   "role": "casilla",
+   "rect": [
+    5,
+    297,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "Pistas",
+   "role": "casilla",
+   "rect": [
+    5,
+    325,
+    28,
+    28
+   ]
+  },
+  {
+   "name": "Visibilidad",
+   "role": "botón de comando",
+   "rect": [
+    5,
+    354,
+    28,
+    28
+   ]
+  }
+ ],
+ "estado": [
+  {
+   "name": "",
+   "role": "texto",
+   "rect": [
+    6,
+    690,
+    0,
+    28
+   ]
+  },
+  {
+   "name": "",
+   "role": "texto",
+   "rect": [
+    6,
+    690,
+    0,
+    28
+   ]
+  },
+  {
+   "name": ">",
+   "role": "texto",
+   "rect": [
+    6,
+    689,
+    20,
+    28
+   ]
+  },
+  {
+   "name": ">",
+   "role": "texto",
+   "rect": [
+    26,
+    689,
+    20,
+    28
+   ]
+  },
+  {
+   "name": "O",
+   "role": "texto",
+   "rect": [
+    46,
+    689,
+    20,
+    28
+   ]
+  },
+  {
+   "name": ">",
+   "role": "texto",
+   "rect": [
+    66,
+    689,
+    20,
+    28
+   ]
+  },
+  {
+   "name": ">",
+   "role": "texto",
+   "rect": [
+    86,
+    689,
+    20,
+    28
+   ]
+  },
+  {
+   "name": "Coordenadas 500.0 E    500.0 N   0 Z   ",
+   "role": "texto",
+   "rect": [
+    106,
+    689,
+    212,
+    28
+   ]
+  },
+  {
+   "name": "Estado",
+   "role": "texto",
+   "rect": [
+    318,
+    690,
+    46,
+    28
+   ]
+  },
+  {
+   "name": "Compresible [Si] : NVP [Si]",
+   "role": "texto",
+   "rect": [
+    364,
+    690,
+    155,
+    28
+   ]
+  },
+  {
+   "name": "Conductos de aire 0",
+   "role": "texto",
+   "rect": [
+    519,
+    690,
+    116,
+    28
+   ]
+  },
+  {
+   "name": "Mantenimiento",
+   "role": "elemento de menú",
+   "rect": [
+    1247,
+    687,
+    105,
+    33
+   ]
+  },
+  {
+   "name": "|",
+   "role": "elemento de menú",
+   "rect": [
+    1233,
+    689,
+    14,
+    31
+   ]
+  },
+  {
+   "name": "",
+   "role": "elemento de menú",
+   "rect": [
+    1213,
+    689,
+    20,
+    31
+   ]
+  },
+  {
+   "name": "Botón desplegable de la barra de herramientas3",
+   "role": "elemento de menú",
+   "rect": [
+    1193,
+    689,
+    20,
+    31
+   ]
+  },
+  {
+   "name": "Botón desplegable de la barra de herramientas2",
+   "role": "elemento de menú",
+   "rect": [
+    1173,
+    689,
+    20,
+    31
+   ]
+  },
+  {
+   "name": "Botón desplegable de la barra de herramientas 1",
+   "role": "elemento de menú",
+   "rect": [
+    1153,
+    689,
+    20,
+    31
+   ]
+  },
+  {
+   "name": "Botón desplegable de la barra de herramientas3",
+   "role": "elemento de menú",
+   "rect": [
+    1133,
+    689,
+    20,
+    31
+   ]
+  },
+  {
+   "name": "",
+   "role": "elemento de menú",
+   "rect": [
+    1113,
+    689,
+    20,
+    31
+   ]
+  }
+ ],
+ "combos": {
+  "855098": [
+   "Favoritas",
+   "Flujo de aire",
+   "Presión",
+   "Atributos",
+   "Energía",
+   "Diesel",
+   "Calor",
+   "Roca",
+   "Identificadores",
+   "Contaminantes",
+   "Radón",
+   "Gas",
+   "------------------------------",
+   "Sensibilidad a la resistencia",
+   "Sensibilidad al calor",
+   "Volante térmico",
+   "Datos de Ventlog",
+   "Datos Ventsim NOTE"
+  ],
+  "1248570": [
+   "Cantidad",
+   "Densidad del aire",
+   "Flujo de masa",
+   "Número de Reynolds",
+   "Velocidad"
+  ],
+  "2166378": [
+   "Favoritas",
+   "Flujo de aire",
+   "Presión",
+   "Atributos",
+   "Energía",
+   "Diesel",
+   "Calor",
+   "Roca",
+   "Identificadores",
+   "Contaminantes",
+   "Radón",
+   "Gas",
+   "------------------------------",
+   "Sensibilidad a la resistencia",
+   "Sensibilidad al calor",
+   "Volante térmico",
+   "Datos de Ventlog",
+   "Datos Ventsim NOTE"
+  ],
+  "1379140": [
+   "Cantidad",
+   "Densidad del aire",
+   "Flujo de masa",
+   "Número de Reynolds",
+   "Velocidad"
+  ],
+  "1969110": [
+   "Por defecto"
+  ],
+  "331270": [
+   ""
+  ]
+ },
+ "exponer": {
+  "rect": [
+   1143,
+   115,
+   222,
+   437
+  ],
+  "slider_transparencia": [
+   1172,
+   148,
+   181,
+   20
+  ],
+  "tabs": [
+   1151,
+   172,
+   206,
+   372
+  ],
+  "campos_umbral": [
+   [
+    1161,
+    224,
+    140,
+    19
+   ],
+   [
+    1161,
+    243,
+    140,
+    19
+   ],
+   [
+    1161,
+    262,
+    140,
+    19
+   ],
+   [
+    1161,
+    281,
+    140,
+    19
+   ],
+   [
+    1161,
+    300,
+    140,
+    19
+   ],
+   [
+    1161,
+    319,
+    140,
+    19
+   ]
+  ],
+  "slider_vertical": [
+   1312,
+   224,
+   20,
+   127
+  ],
+  "opciones": [
+   [
+    1167,
+    355,
+    28,
+    28
+   ],
+   [
+    1194,
+    355,
+    28,
+    28
+   ],
+   [
+    1221,
+    355,
+    28,
+    28
+   ],
+   [
+    1248,
+    355,
+    28,
+    28
+   ]
+  ],
+  "muestras": [
+   [
+    1165,
+    389,
+    26,
+    17
+   ],
+   [
+    1165,
+    405,
+    26,
+    17
+   ],
+   [
+    1165,
+    421,
+    26,
+    17
+   ],
+   [
+    1165,
+    437,
+    26,
+    17
+   ],
+   [
+    1165,
+    453,
+    26,
+    17
+   ],
+   [
+    1165,
+    469,
+    26,
+    17
+   ],
+   [
+    1165,
+    485,
+    26,
+    17
+   ],
+   [
+    1165,
+    501,
+    26,
+    17
+   ]
+  ],
+  "colores": [
+   "#ff96ff",
+   "#e400e4",
+   "#ff0000",
+   "#ffff00",
+   "#00ff00",
+   "#00ffff",
+   "#000080",
+   "#000040"
+  ],
+  "umbrales_por_defecto": [
+   250,
+   100,
+   50,
+   25,
+   10,
+   0
+  ]
+ },
+ "visor": {
+  "degradado_cielo": [
+   "#6394e5",
+   "#010203"
+  ],
+  "color_rejilla": "#ffffff",
+  "chrome": "#f0f0f0"
+ }
+}

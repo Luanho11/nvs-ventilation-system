@@ -1,0 +1,258 @@
+﻿=== HWND 462640
+barra de menús | '' | desc='' | kb='' | st=1048576 | 0,23,1366,32
+  asidero | 'Control' | desc='' | kb='' | st=0 | 4,23,5,28
+  elemento de menú | 'Archivo' | desc='' | kb='' | st=1048576 | 9,25,57,28
+    elemento de menú | 'ABRIR' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Iconos' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Exportación' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+      elemento de menú | 'Ver' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Actualizar' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+      elemento de menú | 'Despejar' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Despejar fondo' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Importar' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Administrar referencias' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Cargar demostración' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Mina de metal' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Mina de carbón' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Mina de carbón texturada' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Mina de diamante' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Demo de fuego' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Sólidos simples' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+      elemento de menú | 'Otros ejemplos' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Administrador de la licencia' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Solicitud de Evaluación' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Cerrar' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Salir' | desc='' | kb='' | st=1048576 | 0,0,0,0
+  elemento de menú | 'Ver' | desc='' | kb='' | st=1048576 | 66,25,35,28
+    elemento de menú | 'Todos los aptos' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Barras de herramientas' | desc='' | kb='' | st=1048592 | 0,0,0,0
+    elemento de menú | 'Restablecer la Pantalla' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Mostrar todo' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Clip a Niveles' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Recortar Elevación ± 20.0 m' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Vista Clip' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Ruta de vuelo' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Nuevo vuelo' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Grabación en' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+      elemento de menú | 'Guardar Path' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Despejar camino' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+      elemento de menú | 'Reproducción' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Bucle en' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Vista rápida' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Guardar Vista rápida' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Borrar actual' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Borrar Todo' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+      elemento de menú | 'Vista rápida anterior' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Siguiente Vista rápida' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Copiar al portapapeles' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Copiar al portapapeles (Todos)' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Copiar en Alta Resolución' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Ancho de 4K' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Ancho de 6k' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Ancho de 8k' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Ancho de 10k' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Ancho de 12k' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Ancho de 14k' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Ancho de 16k' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Crear imagen' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Establecer el Centro de Edición' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Mostrar todas las elevaciones' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Mostrar todas las capas' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Ocultar Flujo Cero' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Ocultar Exclusión' | desc='' | kb='' | st=1048576 | 0,0,0,0
+  elemento de menú | 'Vistas guardadas' | desc='' | kb='' | st=1048576 | 101,25,107,28
+    elemento de menú | 'Guardar Nueva' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Cambiar el nombre de' | desc='' | kb='' | st=1 | 0,0,0,0
+    elemento de menú | 'Borrar' | desc='' | kb='' | st=1 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Plan ' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Isométrica' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Sección del Eje X' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Sección del Eje Y' | desc='' | kb='' | st=1048576 | 0,0,0,0
+  elemento de menú | 'Correr' | desc='' | kb='' | st=1048576 | 208,25,51,28
+    elemento de menú | 'Configuración' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Flujo de aire' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Contaminante' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Gas' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Calor' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Dinámica' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Recirculación' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Incendio' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'DPM' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Polvo' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Explosivos' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Radón' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+      elemento de menú | 'Medio ambiente' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Escritura de la estática' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Escritura de la dinámica' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Resumen' | desc='' | kb='' | st=1048576 | 0,0,0,0
+  elemento de menú | 'Nota' | desc='' | kb='' | st=1048576 | 259,25,45,28
+    elemento de menú | 'Abrir Ventsim NOTE' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Mapa a Modelo' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Actualizar solo estaciones' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Actualizar los últimos registros' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Comparar datos' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Despejar Estaciones' | desc='' | kb='' | st=1048576 | 0,0,0,0
+  elemento de menú | 'Ventlog' | desc='' | kb='' | st=1048576 | 304,25,59,28
+    elemento de menú | 'Conectar' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Importar datos' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Importar nombres de estación' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Despejar Estaciones' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Comparar datos' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Acerca de VentLog ' | desc='' | kb='' | st=1048576 | 0,0,0,0
+  elemento de menú | 'Configuración' | desc='' | kb='' | st=1048576 | 363,25,93,28
+    elemento de menú | 'Programar' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Utilisar Rugosidad' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Balance de Gas de aire seco' | desc='' | kb='' | st=1048592 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Modo de la tableta' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Asistente para configuración rápida' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Configuración' | desc='' | kb='' | st=1048576 | 0,0,0,0
+  elemento de menú | 'Ventana' | desc='' | kb='' | st=1048576 | 456,25,61,28
+    elemento de menú | 'Nueva ventana' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Todos los aptos' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Alejar' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Mosaicos' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Vertical' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Horizontal' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Arreglo Automático' | desc='' | kb='' | st=1048592 | 0,0,0,0
+  elemento de menú | 'Ayuda' | desc='' | kb='' | st=1048576 | 517,25,67,28
+    elemento de menú | 'Sobre' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Ver EULA' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Ayuda rápida' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Foros de soporte de Ventsim' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Seminarios web de Ventsim' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Herramientas HOWDEN' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Calculadora de ahorro de energía potencial...' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Selección del ventilador' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Mostrar manual' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Mostrar Manual español' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Buscar actualizaciones' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Mostrar mensajes' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Sitio web y licencias de Ventsim' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Página web del Ventsim' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Solicitud de Licencia de Evaluación' | desc='' | kb='' | st=1048576 | 0,0,0,0
+      elemento de menú | 'Solicitud de actualización y mantenimiento' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Sistema de Información' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Diagnóstico de DirectX' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Administrador de la licencia' | desc='' | kb='' | st=1048576 | 0,0,0,0
+  elemento de menú | 'Etapa' | desc='' | kb='' | st=1048576 | 604,25,44,28
+    elemento de menú | 'Administrar' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Bloquear a' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Desbloquear' | desc='' | kb='' | st=1048592 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Cambiar el nombre de' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Insertar' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Borrar' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Despejar' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Fusionar actual' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Combinar todos los' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Añadir espacio en blanco' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Agregar copia compartida' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Agregar copia independiente' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Subir en orden' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Bajar orden' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Seleccione conductos únicos' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    elemento de menú | 'Resaltar conductos únicos' | desc='' | kb='' | st=1048576 | 0,0,0,0
+    separador | '' | desc='' | kb='' | st=0 | 0,0,0,0
+    elemento de menú | 'Etapa de conductos seleccionados por edad' | desc='' | kb='' | st=1048576 | 0,0,0,0
+  cuadro combinado | '' | desc='' | kb='' | st=1049600 | 648,28,240,21
+    texto | '' | desc='' | kb='' | st=1048576 | 3,3,217,15
+    botón de comando | 'Abrir' | desc='' | kb='Alt+Flecha abajo' | st=0 | 872,29,15,19
+    ventana | '' | desc='' | kb='' | st=1085440 | 0,21,450,0
+      barra de menús | 'Sistema' | desc='Contiene comandos para manipular la ventana' | kb='' | st=32768 | 0,0,0,0
+      barra de título | '' | desc='Muestra el nombre de la ventana y contiene controles para manipularla' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'IME' | desc='Muestra el teclado cuando se presiona' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Minimizar' | desc='Quita la ventana del medio' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Maximizar' | desc='Hace que la ventana ocupe la pantalla completa' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Ayuda contextual' | desc='Entra o sale del modo de ayuda relativa al contexto' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Cerrar' | desc='Cierra la ventana' | kb='' | st=32768 | 0,0,0,0
+      barra de menús | 'Aplicación' | desc='Contiene comandos para manipular la vista o el documento actuales' | kb='' | st=32768 | 0,0,0,0
+      lista | '' | desc='' | kb='' | st=1081344 | 1,22,448,0
+        elemento de lista | '' | desc='' | kb='' | st=3178498 | 1,22,448,13
+      barra de desplazamiento | 'Vertical' | desc='Se usa para cambiar el área de observación vertical' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Línea arriba' | desc='La posición vertical se mueve una línea hacía arriba' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Re Pág' | desc='La posición vertical se sube un par de líneas' | kb='' | st=32768 | 0,0,0,0
+        indicador | 'Posición' | desc='Indica la posición vertical actual y se puede arrastrar para cambiarla directamente' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Av Pág' | desc='La posición vertical se baja un par de líneas' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Línea abajo' | desc='La posición vertical se baja una línea' | kb='' | st=32768 | 0,0,0,0
+      barra de desplazamiento | 'Horizontal' | desc='Se usa para cambiar el área de observación horizontal' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Columna a la izquierda' | desc='La posición horizontal se mueve una columna hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Página a la izquierda' | desc='La posición horizontal se mueve un par de columnas hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+        indicador | 'Posición' | desc='Indica la posición horizontal actual y se puede arrastrar para cambiarla directamente' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Página a la derecha' | desc='La posición horizontal se mueve un par de columnas hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+        botón de comando | 'Columna a la derecha' | desc='La posición horizontal se mueve una columna hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+      asidero | '' | desc='' | kb='' | st=32769 | 0,0,0,0
+  casilla | '' | desc='' | kb='' | st=1048576 | 888,27,24,24
+  elemento de menú | '' | desc='' | kb='' | st=1 | 912,27,24,24
+  elemento de menú | '' | desc='' | kb='' | st=1 | 936,27,24,24
+  elemento de menú | '' | desc='' | kb='' | st=1048576 | 1330,25,36,28
+  elemento de menú | '' | desc='' | kb='' | st=1048576 | 1302,27,28,24
+  elemento de menú | 'Mensajes' | desc='' | kb='' | st=1048576 | 1216,25,86,28
+=== HWND 528056
+barra de herramientas | '' | desc='' | kb='' | st=1048576 | 0,55,1366,31
+  asidero | 'Control' | desc='' | kb='' | st=0 | 2,55,5,25
+  botón de comando | 'Nuevo' | desc='' | kb='Alt+n' | st=1048576 | 0,56,28,28
+  botón de comando | 'Abrir' | desc='' | kb='Alt+a' | st=1048576 | 28,56,28,28
+  botón de comando | '' | desc='' | kb='' | st=1048576 | 56,56,28,28
+  botón de comando | '' | desc='' | kb='' | st=1048576 | 84,56,28,28
+  separador | '' | desc='' | kb='' | st=0 | 112,55,4,28
+  botón de comando | 'Agregar una nueva ventana' | desc='' | kb='' | st=1048576 | 116,56,28,28
+  botón de comando | 'Encontrar...' | desc='' | kb='' | st=1048576 | 144,56,28,28
+  botón de comando | 'Mostrar todo' | desc='' | kb='' | st=1048576 | 172,56,40,28
+  botón de comando | '' | desc='' | kb='' | st=1048576 | 212,55,43,28
+  casilla | 'Enfocar' | desc='' | kb='' | st=1048576 | 255,55,28,28
+  botón de comando | 'Panear vista (mantenga presionado el botón izquierdo del ratón para panear la vista)' | desc='' | kb='' | st=1048576 | 283,56,28,28
+=== HWND 8324978
+barra de estado | 'Estado' | desc='' | kb='' | st=1048576 | 0,687,1366,33
+  asidero | 'Control' | desc='' | kb='' | st=0 | 1,687,5,33
+  texto | '' | desc='' | kb='' | st=64 | 6,690,0,28
+  texto | '' | desc='' | kb='' | st=64 | 6,690,0,28
+  texto | '>' | desc='' | kb='' | st=64 | 6,689,20,28
+  texto | '>' | desc='' | kb='' | st=64 | 26,689,20,28
+  texto | 'O' | desc='' | kb='' | st=64 | 46,689,20,28
+  texto | '>' | desc='' | kb='' | st=64 | 66,689,20,28
+  texto | '>' | desc='' | kb='' | st=64 | 86,689,20,28
+  texto | 'Coordenadas 500.0 E    500.0 N   0 Z   ' | desc='' | kb='' | st=64 | 106,689,212,28
+  texto | 'Estado' | desc='' | kb='' | st=64 | 318,690,46,28
+  texto | 'Compresible [Si] : NVP [Si]' | desc='' | kb='' | st=64 | 364,690,155,28
+  texto | 'Conductos de aire 0' | desc='' | kb='' | st=64 | 519,690,116,28
+  elemento de menú | 'Mantenimiento' | desc='' | kb='' | st=1048576 | 1247,687,105,33
+  elemento de menú | '|' | desc='' | kb='' | st=1048576 | 1233,689,14,31
+  elemento de menú | '' | desc='' | kb='' | st=1048576 | 1213,689,20,31
+  elemento de menú | 'Botón desplegable de la barra de herramientas3' | desc='' | kb='' | st=1048576 | 1193,689,20,31
+  elemento de menú | 'Botón desplegable de la barra de herramientas2' | desc='' | kb='' | st=1048576 | 1173,689,20,31
+  elemento de menú | 'Botón desplegable de la barra de herramientas 1' | desc='' | kb='' | st=1048576 | 1153,689,20,31
+  elemento de menú | 'Botón desplegable de la barra de herramientas3' | desc='' | kb='' | st=1048576 | 1133,689,20,31
+  elemento de menú | '' | desc='' | kb='' | st=1048576 | 1113,689,20,31

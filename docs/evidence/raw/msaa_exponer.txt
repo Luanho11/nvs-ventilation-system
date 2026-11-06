@@ -1,0 +1,74 @@
+﻿=== PANEL 7669846
+cliente | 'Exponer' | desc='' | kb='' | st=1048576 | 1151,146,206,398
+  ventana | '' | desc='' | kb='' | st=1048576 | 1151,146,206,398
+    barra de menús | 'Sistema' | desc='Contiene comandos para manipular la ventana' | kb='' | st=32768 | 0,0,0,0
+    barra de título | '' | desc='Muestra el nombre de la ventana y contiene controles para manipularla' | kb='' | st=32768 | 0,0,0,0
+      botón de comando | 'IME' | desc='Muestra el teclado cuando se presiona' | kb='' | st=32768 | 0,0,0,0
+      botón de comando | 'Minimizar' | desc='Quita la ventana del medio' | kb='' | st=32768 | 0,0,0,0
+      botón de comando | 'Maximizar' | desc='Hace que la ventana ocupe la pantalla completa' | kb='' | st=32768 | 0,0,0,0
+      botón de comando | 'Ayuda contextual' | desc='Entra o sale del modo de ayuda relativa al contexto' | kb='' | st=32768 | 0,0,0,0
+      botón de comando | 'Cerrar' | desc='Cierra la ventana' | kb='' | st=32768 | 0,0,0,0
+    barra de menús | 'Aplicación' | desc='Contiene comandos para manipular la vista o el documento actuales' | kb='' | st=32768 | 0,0,0,0
+    cliente | '' | desc='' | kb='' | st=1048576 | 1151,146,206,398
+      ventana | '' | desc='' | kb='' | st=1048576 | 1151,146,206,25
+        barra de menús | 'Sistema' | desc='Contiene comandos para manipular la ventana' | kb='' | st=32768 | 0,0,0,0
+        barra de título | '' | desc='Muestra el nombre de la ventana y contiene controles para manipularla' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'IME' | desc='Muestra el teclado cuando se presiona' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Minimizar' | desc='Quita la ventana del medio' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Maximizar' | desc='Hace que la ventana ocupe la pantalla completa' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Ayuda contextual' | desc='Entra o sale del modo de ayuda relativa al contexto' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Cerrar' | desc='Cierra la ventana' | kb='' | st=32768 | 0,0,0,0
+        barra de menús | 'Aplicación' | desc='Contiene comandos para manipular la vista o el documento actuales' | kb='' | st=32768 | 0,0,0,0
+        cliente | '' | desc='' | kb='' | st=1048576 | 1151,146,206,25
+          ventana | '' | desc='' | kb='' | st=1048576 | 1172,148,181,20
+          ventana | '' | desc='' | kb='' | st=1048576 | 1154,148,20,20
+        barra de desplazamiento | 'Vertical' | desc='Se usa para cambiar el área de observación vertical' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Línea arriba' | desc='La posición vertical se mueve una línea hacía arriba' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Re Pág' | desc='La posición vertical se sube un par de líneas' | kb='' | st=32768 | 0,0,0,0
+          indicador | 'Posición' | desc='Indica la posición vertical actual y se puede arrastrar para cambiarla directamente' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Av Pág' | desc='La posición vertical se baja un par de líneas' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Línea abajo' | desc='La posición vertical se baja una línea' | kb='' | st=32768 | 0,0,0,0
+        barra de desplazamiento | 'Horizontal' | desc='Se usa para cambiar el área de observación horizontal' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Columna a la izquierda' | desc='La posición horizontal se mueve una columna hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Página a la izquierda' | desc='La posición horizontal se mueve un par de columnas hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+          indicador | 'Posición' | desc='Indica la posición horizontal actual y se puede arrastrar para cambiarla directamente' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Página a la derecha' | desc='La posición horizontal se mueve un par de columnas hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Columna a la derecha' | desc='La posición horizontal se mueve una columna hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+        asidero | '' | desc='' | kb='' | st=32769 | 0,0,0,0
+      ventana | '' | desc='' | kb='' | st=1048576 | 1151,172,206,372
+        barra de menús | 'Sistema' | desc='Contiene comandos para manipular la ventana' | kb='' | st=32768 | 0,0,0,0
+        barra de título | '' | desc='Muestra el nombre de la ventana y contiene controles para manipularla' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'IME' | desc='Muestra el teclado cuando se presiona' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Minimizar' | desc='Quita la ventana del medio' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Maximizar' | desc='Hace que la ventana ocupe la pantalla completa' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Ayuda contextual' | desc='Entra o sale del modo de ayuda relativa al contexto' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Cerrar' | desc='Cierra la ventana' | kb='' | st=32768 | 0,0,0,0
+        barra de menús | 'Aplicación' | desc='Contiene comandos para manipular la vista o el documento actuales' | kb='' | st=32768 | 0,0,0,0
+        cliente | '' | desc='' | kb='' | st=1048576 | 1151,172,206,372
+          ventana | '' | desc='' | kb='' | st=1048576 | 1151,172,206,372
+        barra de desplazamiento | 'Vertical' | desc='Se usa para cambiar el área de observación vertical' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Línea arriba' | desc='La posición vertical se mueve una línea hacía arriba' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Re Pág' | desc='La posición vertical se sube un par de líneas' | kb='' | st=32768 | 0,0,0,0
+          indicador | 'Posición' | desc='Indica la posición vertical actual y se puede arrastrar para cambiarla directamente' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Av Pág' | desc='La posición vertical se baja un par de líneas' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Línea abajo' | desc='La posición vertical se baja una línea' | kb='' | st=32768 | 0,0,0,0
+        barra de desplazamiento | 'Horizontal' | desc='Se usa para cambiar el área de observación horizontal' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Columna a la izquierda' | desc='La posición horizontal se mueve una columna hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Página a la izquierda' | desc='La posición horizontal se mueve un par de columnas hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+          indicador | 'Posición' | desc='Indica la posición horizontal actual y se puede arrastrar para cambiarla directamente' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Página a la derecha' | desc='La posición horizontal se mueve un par de columnas hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+          botón de comando | 'Columna a la derecha' | desc='La posición horizontal se mueve una columna hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+        asidero | '' | desc='' | kb='' | st=32769 | 0,0,0,0
+    barra de desplazamiento | 'Vertical' | desc='Se usa para cambiar el área de observación vertical' | kb='' | st=32768 | 0,0,0,0
+      botón de comando | 'Línea arriba' | desc='La posición vertical se mueve una línea hacía arriba' | kb='' | st=32768 | 0,0,0,0
+      botón de comando | 'Re Pág' | desc='La posición vertical se sube un par de líneas' | kb='' | st=32768 | 0,0,0,0
+      indicador | 'Posición' | desc='Indica la posición vertical actual y se puede arrastrar para cambiarla directamente' | kb='' | st=32768 | 0,0,0,0
+      botón de comando | 'Av Pág' | desc='La posición vertical se baja un par de líneas' | kb='' | st=32768 | 0,0,0,0
+      botón de comando | 'Línea abajo' | desc='La posición vertical se baja una línea' | kb='' | st=32768 | 0,0,0,0
+    barra de desplazamiento | 'Horizontal' | desc='Se usa para cambiar el área de observación horizontal' | kb='' | st=32768 | 0,0,0,0
+      botón de comando | 'Columna a la izquierda' | desc='La posición horizontal se mueve una columna hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+      botón de comando | 'Página a la izquierda' | desc='La posición horizontal se mueve un par de columnas hacia la izquierda' | kb='' | st=32768 | 0,0,0,0
+      indicador | 'Posición' | desc='Indica la posición horizontal actual y se puede arrastrar para cambiarla directamente' | kb='' | st=32768 | 0,0,0,0
+      botón de comando | 'Página a la derecha' | desc='La posición horizontal se mueve un par de columnas hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+      botón de comando | 'Columna a la derecha' | desc='La posición horizontal se mueve una columna hacia la derecha' | kb='' | st=32768 | 0,0,0,0
+    asidero | '' | desc='' | kb='' | st=32769 | 0,0,0,0

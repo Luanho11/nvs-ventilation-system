@@ -1,0 +1,39 @@
+NVS (Noova Ventilation System) 0.3.1 — reconstrucción funcional independiente (NO es un producto de VentSim ni de Howden)
+=====================================================================================================
+
+EJECUTAR
+  IMPORTANTE: ejecute dist\NVS\NVS.exe y no lo mueva solo: necesita la carpeta _internal
+  que está a su lado (si copia el programa, copie la carpeta NVS completa o use el .zip).
+  No ejecute nada de la carpeta build\ (es intermedia y falla con «Failed to load Python DLL»).
+  Doble clic en NVS.exe (no requiere instalación ni Python). Windows 10/11 x64.
+
+USO BÁSICO
+  Al arrancar aparece una pantalla de carga y la ventana se abre VACÍA con la rejilla, como Ventsim; el ejemplo se carga desde
+  Archivo > Cargar demostración. La ventana sigue el aspecto y la disposición observados de Ventsim DESIGN 6 (menús, etapa,
+  2 barras, raíl izquierdo, panel «Exponer», barra de estado, terreno, notas y ejes). Lo que existe allí y aún no
+  funciona aquí aparece DESHABILITADO con el tooltip «Pendiente».
+  1. Archivo > ABRIR (Ctrl+O), Archivo > Cargar demostración (Mina de metal, de carbón, de diamante, fuego, sólidos),
+     Archivo > Cargar demostración > Otros ejemplos o arrastre un .vsm/.vsmt a la ventana. Los .vsm se abren en SOLO LECTURA.
+     «Etapa» filtra las galerías por etapa y «Vistas guardadas» mueve la cámara a las vistas del proyecto.
+  2. Visor 3D: rotar = botón izquierdo · desplazar = derecho/central (o Mayús+izq.) · zoom = rueda ·
+     clic en una galería = seleccionarla · doble clic / Inicio = ajustar vista · C = centrar en la selección.
+     Raíl izquierdo: Sólidos, Todos los aptos, Cuadrícula, Nodos (puntos en los extremos de galería), Flechas (aire animado
+     dentro de los tubos, en el sentido del caudal), Referencias (terreno y notas) y Pistas (resalta la ruta guardada en el proyecto).
+  3. Correr > Escritura de la estática (F5) ejecuta el solucionador propio. En la barra 2, «Flujo de aire» + «Cantidad»
+     o «Velocidad» eligen qué se colorea; el panel «Exponer» edita umbrales y colores.
+  4. Funciones PROPIAS de NVS (no existen en Ventsim) están en el menú «NVS»: proyecto nativo
+     (nuevo, demostración, añadir/editar/eliminar galerías, ventilador, guardar .nvs.json), exportar CSV (Ctrl+E) e imagen,
+     origen del dato (archivo / motor propio), magnitudes propias (pérdida de presión, diferencia motor − archivo),
+     texto de las etiquetas, grosor, y los paneles «Tabla de resultados» y «Propiedades y resumen» (ocultos por defecto;
+     el panel de propiedades muestra el ORIGEN de cada valor: azul = leído del archivo, verde = calculado por el motor).
+  5. CSV: separador ";", UTF-8 con BOM (Excel); las columnas indican su procedencia (*_archivo / *_motor).
+
+LÍMITES (importante)
+  - Solo los modelos Tutorial1, Tutorial2, DemoMine y RealMine tienen prueba diferencial aprobada
+    (caudales del motor = caudales guardados por VentSim, error relativo < 1e-3). En el resto, el panel
+    "Resumen y validez" indica qué funciones no están implementadas (ventilación natural, calor, fuego,
+    ductos, ciertos tipos de resistencia y ventiladores) y las diferencias son esperables.
+  - No hay simulación de calor, gases, polvo, radón, fuego ni dinámica. Ver docs/09-primer-entregable.md.
+
+COMPILAR DE NUEVO
+  powershell -ExecutionPolicy Bypass -File build.ps1      (requiere uv)
